@@ -1,6 +1,6 @@
 - 👋 Hi, I’m pouya
-- 👀 I’m interested in programing and playing volleyball, watching movies and writing 
-- 🌱 I’m currently learning BME and CS
+- 👀 I am interested in programming, artificial intelligence, machine learning, deep learning and image processing in the field of medicine.
+- 🌱 I’m currently learning BME and CS in Amirkabir university of technology
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me: p.taghipour81@gmail.com
                       linkedin.com/in/pouya-taghipour-44098b209
