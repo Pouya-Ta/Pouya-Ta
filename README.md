@@ -18,10 +18,6 @@ I am currently pursuing a degree in Biomedical Engineering (Bioelectrics) and Co
 I am open to collaborating on projects related to my interests, particularly those that intersect with biomedical engineering and computational science.
 
 ## Contact Me
-- **Email**: [p.taghipour81@gmail.com](mailto:p.taghipour81@gmail.com)
-- **LinkedIn**: [linkedin.com/in/pouya-taghipour-44098b209](https://linkedin.com/in/pouya-taghipour-44098b209)
-
-## Connect with me:
 <p align="left">
   <a href="https://github.com/Pouya-Ta" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white" alt="GitHub"/>
