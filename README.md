@@ -26,10 +26,10 @@ I am open to collaborating on projects related to my interests, particularly tho
   <a href="https://github.com/Pouya-Ta" target="_blank">
     <img src="https://img.icons8.com/material-outlined/40/000000/github.png" alt="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/in/pouya-taghipour/" target="_blank">
+  <a href="https://www.linkedin.com/in/pouya-taghipour-44098b209/" target="_blank">
     <img src="https://img.icons8.com/material-outlined/40/000000/linkedin.png" alt="LinkedIn"/>
   </a>
-  <a href="mailto:p.taghipour8@gmail.com" target="_blank">
+  <a href="mailto:p.taghipour81@gmail.com" target="_blank">
     <img src="https://img.icons8.com/material-outlined/40/000000/gmail.png" alt="Gmail"/>
   </a>
   <a href="mailto:Pouya_Taghipour@aut.ac.ir" target="_blank">
