@@ -12,5 +12,3 @@ I am currently in the last stage of my bachelor's studies in Biomedical Engineer
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Pouya-Ta&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Pouya-Ta&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
----
-[![](https://visitcount.itsvg.in/api?id=Pouya-Ta&icon=2&color=1)](https://visitcount.itsvg.in)
