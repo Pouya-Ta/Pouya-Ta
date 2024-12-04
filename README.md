@@ -2,6 +2,7 @@
 I am currently in the last stage of my bachelor's studies in Biomedical Engineering with a minor in Science at Amirkabi University of Technology (Tehran Polytechnic)<br>I am always looking for potential collaborations on Computational and Cognitive Neuroscience using AI-based techniques.<br>I am enthusiastic about the applications of Machine Learning, Deep Learning, and Neural Networks in Brain Studies.<br>I also love coffee, metal and rock music, volleyball, reading books, and watching good movies.
 
 
+
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/pouya6903) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pouya-taghipour/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/TaghipourPouya1) 
 
