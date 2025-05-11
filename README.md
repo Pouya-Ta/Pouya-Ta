@@ -1,5 +1,11 @@
 # About Me:
-I am currently in the last stage of my bachelor's studies in Biomedical Engineering with a minor in Science at Amirkabi University of Technology (Tehran Polytechnic)<br>I am always looking for potential collaborations on Computational and Cognitive Neuroscience using AI-based techniques.<br>I am enthusiastic about the applications of Machine Learning, Deep Learning, and Neural Networks in Brain Studies.<br>I also love coffee, metal and rock music, volleyball, reading books, and watching good movies.
+I am a Biomedical Engineering graduate from Amirkabir University of Technology (Tehran Polytechnic), where I also completed a minor in Computer Science. I am currently working as a Research Assistant, focusing on Computational and Cognitive Neuroscience. My work primarily involves applying advanced artificial intelligence techniques to understand brain function and develop data-driven insights into neural processes.
+
+My research interests lie at the intersection of neuroscience, machine learning, and computational modeling. I am particularly enthusiastic about leveraging Deep Learning, Neural Networks, and signal processing methods to analyze brain activity and support discoveries in cognitive science and neural engineering.
+
+I am actively seeking opportunities to collaborate on interdisciplinary projects that combine neuroscience, engineering, and AI. I value rigorous scientific inquiry, open collaboration, and innovative thinking in pursuit of meaningful contributions to both research and technology.
+
+Outside the lab, I enjoy reading, watching well-crafted films, playing volleyball, and exploring different styles of music, particularly metal and rock. I also have a strong appreciation for coffee and thoughtful conversation.
 
 
 ## 🌐 Socials:
