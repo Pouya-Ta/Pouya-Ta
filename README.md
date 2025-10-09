@@ -1,6 +1,5 @@
 # About Me:
-I am a Biomedical Engineering graduate from Amirkabir University of Technology (Tehran Polytechnic), where I also completed a minor in Computer Science. I am currently working as a Research Assistant, focusing on Computational and Cognitive Neuroscience. My work primarily involves applying advanced artificial intelligence techniques to understand brain function and develop data-driven insights into neural processes.
-
+I am an MSc student in Biomedical Engineering at the University of Calgary (UofC), and I graduated from Amirkabir University of Technology (Tehran Polytechnic), where I completed my BSc studies in Biomedical Engineering with a minor in Computer Science. I am currently working as a Research Assistant, focusing on Computational and Cognitive Neuroscience. My work primarily involves applying advanced artificial intelligence techniques to understand brain function and develop data-driven insights into neural processes.
 
 My research interests lie at the intersection of neuroscience, machine learning, and computational modeling. I am particularly enthusiastic about leveraging Deep Learning, Neural Networks, and signal processing methods to analyze brain activity and support discoveries in cognitive science and neural engineering.
 
